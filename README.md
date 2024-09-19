@@ -1,7 +1,7 @@
-# AsyncEcommerceCrawler
+# EcommerceCrawler
 
 ## Overview
-AsyncEcommerceCrawler is an asynchronous web crawler designed to extract product URLs from specified e-commerce domains. By leveraging Python's `asyncio` and `aiohttp`, the crawler operates efficiently, allowing for concurrent requests while adhering to a specified maximum depth for crawling.
+EcommerceCrawler is an asynchronous web crawler designed to extract product URLs from specified e-commerce domains. By leveraging Python's `asyncio` and `aiohttp`, the crawler operates efficiently, allowing for concurrent requests while adhering to a specified maximum depth for crawling.
 
 ## Technologies Used
 - **Python**: Core programming language.
